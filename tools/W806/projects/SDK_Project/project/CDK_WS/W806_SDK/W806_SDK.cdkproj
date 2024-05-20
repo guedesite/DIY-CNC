@@ -305,6 +305,12 @@
       <File Name="../../../../../../../app/src/wm_it.c">
         <FileOption/>
       </File>
+      <VirtualDirectory Name="fatfs">
+        <File Name="../../../../../../../app/src/fatfs_mmc.h">
+          <FileOption/>
+        </File>
+        <File Name="../../../../../../../app/src/fatfs_mmc.c"/>
+      </VirtualDirectory>
     </VirtualDirectory>
     <VirtualDirectory Name="inc">
       <File Name="../../../../../../../app/inc/wm_it.h">
@@ -518,4 +524,7 @@
     <debugLayout/>
     <memoryTabColSizeExpressions>100:8;100:8;100:8;100:8;</memoryTabColSizeExpressions>
   </DebugSessions>
+  <VendorInfo>
+    <VendorName>NULL</VendorName>
+  </VendorInfo>
 </Project>
