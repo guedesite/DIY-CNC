@@ -55,3 +55,4 @@ lib/W806/libappuser.a
 lib/W806/libdrivers.a
 lib/W806/libwmarch.a
 lib/W806/libwmcomponent.a
+/build/
