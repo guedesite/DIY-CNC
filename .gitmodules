@@ -1,0 +1,9 @@
+[submodule "components/arduino"]
+	path = components/arduino
+	url = https://github.com/espressif/arduino-esp32.git
+[submodule "components/bb_spi_lcd"]
+	path = components/bb_spi_lcd
+	url = https://github.com/bitbank2/bb_spi_lcd.git
+[submodule "components/tmc"]
+	path = components/tmc
+	url = https://github.com/analogdevicesinc/TMC-API.git
